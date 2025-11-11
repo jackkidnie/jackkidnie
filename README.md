@@ -10,4 +10,4 @@ My main research focuses on
 2. Modeling brain microcircuits to investigate brainwave origins and memory formation
 3. Making novel K-12 STEM lesson plans and products to be hosted on TeachEngineering.org
 
-Check out my latest reduced order project [here.](https://github.com/cyneuro/reduce-cell-modeling)
+Check out my latest independent reduced order project [here.](https://github.com/cyneuro/reduce-cell-modeling)
