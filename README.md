@@ -1,6 +1,6 @@
 ## Hi, I'm Jack.
 
-I'm an undergraduate researcher at the University of Missouri - Columbia.
+I'm an undergraduate junior in EE + CE and student researcher at the University of Missouri - Columbia.
 
 ### Primary Work
 
