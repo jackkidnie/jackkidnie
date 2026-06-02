@@ -1,4 +1,4 @@
-LINK FOR CAMP: https://1drv.ms/w/c/826eb2b81a3503ea/IQDzVGBeB86gS7AjUuokKk56AX7c5YxSawnO1zsUE3Bqcuw?e=hRVBDX
+LINK FOR TEACHER PROGRAM: https://1drv.ms/w/c/826eb2b81a3503ea/IQDzVGBeB86gS7AjUuokKk56AX7c5YxSawnO1zsUE3Bqcuw?e=hRVBDX
 
 ## Hi, I'm Jack.
 
